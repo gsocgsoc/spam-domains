@@ -13467,6 +13467,7 @@ b2bfileset.com;1
 b2bfileuk.com;1
 b2biaeer4b.click
 b2binfo.us;1
+b2bmail.bid
 b2bmail.download
 b2b-mailers.org;1
 b2bmail.men
@@ -17538,6 +17539,7 @@ bigheath.bid;1
 bighjkiels.com
 bighjkinjuy.info;1
 bighometv.us
+bighost.bid
 bighost.download
 bigills.com
 bigimages.pl
@@ -53981,6 +53983,7 @@ freemails.ml
 freemailsrv.info
 freemails.stream
 freemailto.cz.cc
+freemail.trade
 freemail.tweakly.net
 freemail.waw.pl
 free-max-base.info
@@ -54078,6 +54081,7 @@ freewebad.com
 free-webmail1.info
 freewebmaile.com
 free-web-mails.com
+freewebpages.bid
 freewebpages.stream
 freewebpages.top
 freeviagrasamplesbeforebuying.ru
@@ -66805,6 +66809,7 @@ hostmug.su
 hostmuss.su
 hostname.biz;1
 hostndeal.com;1
+hostnow.bid
 hostnow.men
 hostnrix.com;1
 hostpector.com
@@ -73036,6 +73041,7 @@ jages.us;1
 jaggag.com
 jaggernaut-email.bid
 jaggernautemail.bid
+jaggernautemail.trade
 jaggernautemail.win
 jagives.us
 jagodapiekarska.com;1
@@ -83926,6 +83932,7 @@ livelyb.us
 livelynewsalerts.org;1
 livelysend.com;1
 livelysittingspleth.com;1
+livemail.bid
 livemail.download
 livemaill.com
 livemail.men
@@ -87444,6 +87451,7 @@ mail23.xyz;1
 mail24.club
 mail24.gdn
 mail24h.top
+mail2k.bid
 mail2k.trade
 mail2k.win
 mail2marketing.com;1
@@ -87475,6 +87483,7 @@ mail4you24.net
 mail-4-you.bid
 mail4you.bid
 mail4you.men
+mail4you.racing
 mail4you.stream
 mail4you.trade
 mail4you.win
@@ -87815,6 +87824,7 @@ mailmonster.bid
 mailmonster.download
 mailmonster.stream
 mailmonster.top
+mailmonster.trade
 mailmoth.com
 mailms.com
 mailmuffta.info
@@ -94144,6 +94154,7 @@ mmafightgears.com;1
 mmail.com
 mmail.men
 mmail.org
+mmail.trade
 m-m.asia
 mmbound.us
 mmbroad.us;1
@@ -95862,6 +95873,7 @@ mslecturer.net
 msleeads.tk
 mslss.stream;1
 mslug.us;1
+msmail.bid
 msmail.trade
 msmail.win
 msm.com
@@ -96774,6 +96786,7 @@ myfreemail.bid
 myfreemail.download
 myfreemoneysites.com
 myfreeola.uk
+myfreeserver.bid
 myfreeserver.download
 my-free-tickets.com
 myfreevideo.info;1
@@ -97095,6 +97108,8 @@ mypins.info;1
 myplacerefill.ru;1
 myplanb24.com
 my-points.info
+mypop3.bid
+mypop3.trade
 mypop3.win
 my-post.info
 mypoularsmart.us
@@ -97345,6 +97360,7 @@ mytuttifruitygsa.xyz
 my-tyme44.me
 myugg-trade.com
 myultimatediet.com
+myumail.bid
 myumail.stream
 myunixcrypt.top;1
 myunlok.bid;1
@@ -126140,8 +126156,10 @@ securesecuredeal.su;1
 securesee.com
 secureserver.rogers.ca
 secure-sites.biz
+securesmtp.bid
 securesmtp.download
 securesmtp.stream
+securesmtp.trade
 securesmtp.win
 secure-support-international.com
 securetabssupply.su;1
@@ -129939,6 +129957,8 @@ simplydrugwarning.us;1
 simply-email.bid
 simplyemail.bid
 simplyemail.men
+simplyemail.racing
+simplyemail.trade
 simplyemail.win
 simplyengenhhnweo.com
 simplyenhancingmind.us;1
@@ -131504,6 +131524,7 @@ sniod.us;1
 snionvy.us
 snipdda.us
 snipea.us
+snipemail4u.bid
 snipemail4u.men
 snipe-mail.bid
 snipeos.us;1
@@ -146740,6 +146761,7 @@ um9d.com
 umagicbingoseurodice.pl
 umagiccasheurodice.pl
 umagictopeudice.pl
+umail4less.bid
 umail4less.men
 umail.net
 umails.info
@@ -150396,6 +150418,7 @@ weavebc.us
 weaverage.us;1
 weavesocial.info;1
 web2mailco.com
+web2web.bid
 web2web.stream
 web2web.top
 web3411.de
@@ -157575,7 +157598,9 @@ www.ecy4dp.top;1
 www.ee3847.top;1
 www-email.bid
 wwwemail.bid
+wwwemail.racing
 wwwemail.stream
+wwwemail.trade
 wwwemail.win
 www.emmagul.top;1
 www.fapian.pw;1
@@ -164968,6 +164993,7 @@ yourhormonefatloss.us
 yourhotdates.com
 yourhoustonhomesolution.com
 yourigwillgrow.com;1
+yourimail.bid
 yourimail.download
 yourimbox.cf
 yourinbox.co
