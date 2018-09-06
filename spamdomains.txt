@@ -22389,7 +22389,6 @@ business-intelligence-vendor.com
 businessknowledgetoday.com;1
 businessleadsonlinemail.com
 businessleague.ml;1
-business-lloydsbank.com
 businessloan1st.info
 businessloanfixed.trade;1
 businessloanlook.trade;1
@@ -36027,7 +36026,6 @@ dc08ip7q.biz;1
 dc4yourhost.gq;1
 dcads.co.za
 dcamefort.us
-dcapnud.com;1
 dcarved.us
 dcash.us;1
 dcazd.bid;1
