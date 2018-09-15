@@ -5656,7 +5656,6 @@ adverthn.us
 advertiseall.com
 advertisebrainpower.us;1
 advertise-bz.cn
-advertisecanop.club;1
 advertisedata.com;1
 advertiselantern.trade;1
 advertisemodifycreate.pw
@@ -34569,7 +34568,6 @@ custom12.tk
 customb2b.biz;1
 customcanvass.us;1
 customcarryingcase.info;1
-customcasb.info;1
 customcas.site
 customdresssow.com;1
 customeraccess.net
@@ -90045,7 +90043,6 @@ marketratefinders.com;1
 marketrb.info;1
 marketrum.net;1
 marketse.com.br;1
-market-services.club;1
 markets-leads.com
 marketstoriesnews.com
 market-trade.services;1
@@ -130113,7 +130110,6 @@ shoppingpleasureyou.com
 shoppingpleazure.com
 shoppingpsree.com
 shoppingreplicahandbags.com
-shoppingsavers.club;1
 shoppingsavingsforme.com;1
 shoppingsher.com
 shoppinguggboots.com
