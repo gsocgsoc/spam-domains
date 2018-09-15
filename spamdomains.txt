@@ -63913,7 +63913,6 @@ healthpull.com
 healthquotestore.com;1
 healthrate.bid;1
 healthreco.bid;1
-healthreference.us;1
 healthreleased.com
 healthrightflex.info;1
 healthriskalerts.com;1
@@ -80224,7 +80223,6 @@ kqdoctors.eu
 kq-ec.net
 kqf97m50-yly.com;1
 kqgulf.loan;1
-kqhdvxwfd4.com
 kqhee.bid;1
 kqj81f.biz;1
 kqmem.trade;1
@@ -128236,9 +128234,6 @@ serialkinogoru.ru
 serialkinopoisk.ru
 serials-only.ru
 seriesbrasilnet.com
-seriesnetbr.com
-seriesnetbr.net
-seriesnetbrs.com
 series-online.info
 seriforum.com
 serinfjkguty.info;1
@@ -164195,7 +164190,6 @@ xosazet.co.tv
 xost.us
 xoticstatues.com
 xotim.ru
-xotr3kf-byc.com;1
 xowhit.stream;1
 xovl09.fr;1
 xowseida.biz;1
