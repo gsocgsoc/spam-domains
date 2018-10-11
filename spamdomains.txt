@@ -27564,7 +27564,6 @@ chasebankinfo.com
 chasebankz.com
 chasecu.us
 chasedc.us
-chase-docs.com
 chasedz.us
 chase-enroll.com
 chasefinance.org;419
@@ -59595,7 +59594,6 @@ gloria-kropp.us;1
 gloria-leisure.us;1
 glorianelson.online;1
 glorianemarjorie.in
-glorianemoyna.com;1
 glorianezaria.com;1
 glorianovas.com.br
 gloria-royston.in
