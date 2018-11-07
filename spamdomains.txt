@@ -14583,7 +14583,6 @@ ballstonrowmktg.com;1
 ballszycompany.org
 balltim.us
 ballustra.net.pl
-ballyhoobooks.info;1
 ballyhoolimited.com;1
 ballymacaw.com;1
 ballysale.com
@@ -46729,7 +46728,6 @@ emaill.host
 emaillime.com
 emaillistings.info
 emaillistrental.org;1
-emaillistverify.club
 emailll.org
 email-luxola.com;1
 email-makemoneyonline.com;1
