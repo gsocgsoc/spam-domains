@@ -15698,7 +15698,6 @@ bdscs.trade;1
 bdserviceage.de
 bdsos.bid;1
 bdsthaiduong.com;1
-bdswa.review
 bdsys.org;1
 bdtop.biz;1
 bdtried.us
@@ -45422,7 +45421,6 @@ ecubitkas.com;1
 ecudeju.olkusz.pl
 eculf.us;1
 ecuogte.review
-ecupidpost.top
 ecuras.bid;1
 ecuredementia.us
 ecure-host.info
