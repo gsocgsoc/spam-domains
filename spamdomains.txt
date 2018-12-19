@@ -90,7 +90,6 @@
 08writingjs.icu
 0918amazing.us;1
 0918big.us;1
-0918free.icu
 0918immediately.icu
 0918instructive.us;1
 0918remarkable.icu
@@ -708,11 +707,13 @@
 1mojadieta.ru
 1moresurvey.com
 1mphpdr0-rem.com;1
+1nad4.com
 1narko-centra.ru;1
 1narko-centr.ru;1
 1network1.com
 1-nevv.ru;1
 1-nimblestorage.com;1
+1nkk.icu
 1noodjcp-fkmf.com
 1np6dkr-j.biz
 1nppx7ykw.pl
@@ -996,6 +997,7 @@
 213green-caranan.biz;1
 213wlx6tl7.tokyo;1
 214argonneave.com;1
+214s2wkzie.net;1
 216.152.250.130
 2166tow6.mil.pl
 21cn.com
@@ -2222,7 +2224,6 @@
 525kou.com
 52c2.com
 52dnhag.us
-52ejeofe-fddde.com
 52gf-d3su.net
 52gmail.com
 52iw2rwv.work
@@ -2319,7 +2320,6 @@
 5-cfn-585-fhfjwf.net
 5ctoh992-uje.com;1
 5c-urc01m.biz
-5cxcsd-s5vvef.net;1
 5cy5jb8srpm.net;1
 5cyrf.com;1
 5cyv9uh.work
@@ -3218,6 +3218,7 @@
 8fpk.xyz
 8fu0ulvstihe597.icu
 8fvayxvv-for.com;1
+8fz46wk.com
 8g7dtr3445yf.com;1
 8gfh.com;1
 8gfktwk-nte.com;1
@@ -3524,7 +3525,6 @@
 9kj7nbs7-wql.com;1
 9klsh2kz9.pl
 9k-swx9-3riz.biz
-9ku5k-ym4ruqk.net;1
 9l6s7.tk
 9l9-g50vsb.com
 9m8qwt-xxyx8q.net;1
@@ -5616,6 +5616,7 @@ adngs.net
 adnocompany.hst.im;419
 adnocschls.com;419
 adnocsh.com;419
+adnowhomesec.icu
 adn-track1.fr
 ado888.biz
 adobeccepdm.com
@@ -6650,7 +6651,6 @@ agreehomesolarways.us;1
 agreeil.us
 agreeimagesquality.us
 agreemdgbent.review
-agreementmillimeter.club
 agreementselltime.us;1
 agreementtimeshare.us
 agreenatural.pl.ua
@@ -6934,6 +6934,7 @@ aiimedu.com;1
 aiitne.stream;1
 aij5h.site
 aikasi.bid;1
+aikenba.info;1
 aikita.com;1
 ailabritni.in;1
 ailacorella.asia;1
@@ -8986,6 +8987,7 @@ amazingupdate.com;1
 amazinguper.com
 amazinnngmmeng.com
 amazinprettywomen.com
+amazin-prettywomenz.com
 amazinstorez.com
 amazionaccounts.com
 amazngaame.com
@@ -11190,7 +11192,6 @@ aproven.us
 aprsinfo.de
 aprunze.com;1
 aprutana.ru
-aprz6-mvrv6cb.net;1
 apsauk.bid;1
 apsdns.su
 apsoccur.us
@@ -12682,7 +12683,6 @@ asyluminn.com;1
 asznz.bid;1
 at0mik.org
 at30k.site
-at6kr-9xctnqd.net;1
 at9ja.com
 atacadoborges.com.br;1
 atacady.us
@@ -14012,6 +14012,7 @@ ayania.com
 ayarnlovingmama.com;1
 ayatoepoel.com;1
 aybyb.bid;1
+ayc6nispui5p.net;1
 ayckjum.tk
 aycxm.site
 aydindogdu.com;1
@@ -14078,6 +14079,7 @@ azati.trade;1
 azatraq.us
 azazazatashkent.tk
 azbantu.tk
+azbp-xm6h69.com;1
 azbrainmaximizer.com
 azcbrkg.com
 azcj4gkrg52osea.co
@@ -14455,6 +14457,7 @@ backpaiins.bid;1
 backpainadvice.info
 backpainclinicpro.review
 backpaineradicate.us;1
+backpaingone.icu
 backpainreliefs.icu
 backpainrelif.bid;1
 backpain.stream
@@ -14912,6 +14915,7 @@ bankrefpre.com;1
 bankrobbersindicators.com
 bankrupt1.com
 bankruptcycopies.com
+bankruptcypath.info;1
 bankruptcystockton.com
 bankruptcyuza.com
 banksinfo.kiev.ua
@@ -15261,6 +15265,7 @@ basichealthsense.com;1
 basicinstinct.com.us
 basicmodel.co.uk
 basicnetworkmarketing.us;1
+basicrejuvahairs.icu
 basicrepairmemory.us
 basicrestorehearing.us
 basicselltimeshare.us
@@ -15426,6 +15431,7 @@ batti.icu
 battleattic.net
 battlebang.icu
 battlecrafted.info;1
+battleforprizes.info;1
 battlegreatpoint.net;1
 battleofdeadsouls.ru;1
 battlvisrre.host
@@ -16761,6 +16767,7 @@ bemic.info;1
 bemisty.us;1
 bemobileagency.com
 bemolspeks.com;1
+bemoredermasion.icu
 bemouth.us
 bemperor.tokyo
 bemybb2.com
@@ -18031,6 +18038,7 @@ bettersolarrebates.us;1
 betterspecialist.net
 betterspotone.com
 bettersskins.com
+betterstore.su
 bettersunbath.co.uk
 betterthanskins.icu
 bettertheearns.info;1
@@ -18420,6 +18428,7 @@ bicei.us;1
 bicer.us
 biche.us;1
 bicichi.us
+bicicletafija.info;1
 bicioro.us
 bicisutkkt.eu
 bicithy.us
@@ -20190,6 +20199,7 @@ blubparody.com;1
 bluclickcoffee.com;1
 bludmedz.com
 bludpressure.com
+bludprsre.icu
 bluealina.info;1
 blueandredgifts.com
 blueandwhitestores.com
@@ -20478,7 +20488,6 @@ bobbyeivett.in;1
 bobby-husby.us;1
 bobbyyes.com
 bob.email4edu.com
-bobetorimo.com
 bobfilmclub.ru
 bob.inkandtonercartridge.co.uk
 bobleudie.com;1
@@ -21419,7 +21428,6 @@ boutouvyes.com
 boutrise.com;1
 bouttin.bid
 bouvartneedeedadsfhdshficsys.com
-bouxzinmsunv.net
 bow3dgfd.us
 bowamaranth.website
 bowaryfarming.com;419
@@ -22894,7 +22902,6 @@ brunchz.us
 brunhilderhea.su
 brunnak.us
 brunneranswer.com;1
-brunoalves.info;1
 brunocrypt.top;1
 brunodunckel.com
 brunomarsconcert2014.com
@@ -22906,7 +22913,6 @@ brushtg.us
 brush.tokyo
 brussein.com;1
 brussia.biz;1
-bruvant.icu
 bruzdownice-v.pl
 bruzzsocht.com;1
 brwgw.site
@@ -23085,7 +23091,6 @@ btterty098.us
 bttery-condition.us;1
 bttface.us
 bttpush.us
-bttrbldrr.us;1
 bttreach.us
 bttreat.us
 bttry-condon.us;1
@@ -24997,6 +25002,7 @@ cameron-washington.in
 camerquis.com
 camerusontops.icu
 camesca.us
+cametofix.icu
 cametoneedblood.icu
 cameup.bid;1
 camewatchesus.com;1
@@ -26766,6 +26772,7 @@ causebvsd.icu
 causeca.ml
 causeclarity.net
 causecurehearingloss.us
+causeddermaslin.icu
 causediabetescontrol.us
 causedmediainfo.us
 causedreliefpain.us;1
@@ -29837,6 +29844,7 @@ chrislilith.com;1
 chris-maples.us;1
 chris-mcilwain.us;1
 chrismeyer.me
+chrisorn.us;1
 chrispoirel.com
 chrisrocks.me
 chrissiefloria.in
@@ -30217,6 +30225,7 @@ chuay.us;1
 chubbres.review
 chubbyteenmodels.com
 chuckallenfloyd.com;1
+chuckhaaga.pw
 chuckyor.date;1
 chuffhaw.date;1
 chuiniubi.org;1
@@ -30697,6 +30706,7 @@ civilconsult.top;1
 civilcrypt.top;1
 civilengineertop.com
 civilial.com
+civiliangaming.info;1
 civilianstyle.com
 civiliate.biz;1
 civilih.us
@@ -30947,6 +30957,7 @@ claryforassembly.com
 clarysuellen.asia
 clasan.com;1
 clasarab.com
+clashbesurs.info;1
 clashgems2016.tk
 clashgems24.com;1
 clashil.us
@@ -31002,6 +31013,7 @@ classmpus.com
 classofbrains.icu
 classofjudges.icu
 classrb.info;1
+classroambuzz.icu
 classroomsoulful.org;1
 classroomwow.com;1
 classthasurvs.info;1
@@ -31030,6 +31042,7 @@ clavo.stream
 clavydoha.com;1
 clayecr.us
 clayerbyt.info;1
+clayguzman.pw
 clayharpoon.info;1
 clayhhs.us
 clay.kiev.ua
@@ -31785,6 +31798,7 @@ clueco.com
 clueh.us;1
 cluelpr.us;1
 cluetn.us;1
+clugustin.pw
 cluisp.trade;1
 clukr.us;1
 clulounge.com
@@ -32946,7 +32960,6 @@ comovra.com
 comp26as8a.com;1
 com-page98051.com
 compagniebartholo.fr
-compairhelthwut.us;1
 companieshouse-data.com
 companieshousedata.com
 companieshouselist.com
@@ -35247,7 +35260,6 @@ cross-law.ga
 cross-law.gq
 crossmail.bid
 crossnecklacemadeofnails.info;1
-crossnfjj.icu
 crosspep.com;1
 crosspo.us
 crossqp.us
@@ -35400,7 +35412,6 @@ cryptonline.top;1
 crypto-nox.com
 cryptopro.live
 cryptosinvestment.top;1
-cryptosystem.top
 cryptosyst.top;1
 cryptotrader2018.com
 cryptowazc.info;1
@@ -36085,6 +36096,7 @@ cursoonliner3.tk;1
 cursoparavendedor.com.br;1
 cursos2015.tk;1
 cursosdez.com.br
+cursosdobrasil.com.br;1
 cursosead.info;1
 cursoserver.tk;1
 cursosmelhor.com.br
@@ -37680,7 +37692,6 @@ datingpix.info
 datingplaces.ru
 datingportal.info
 datingprettyrussiansingles.us;1
-datingpsychopaths.com
 datingreal.info
 dating-relaunch-europe.com
 datingrussiangirlsinclude.us
@@ -37854,6 +37865,7 @@ dayrep.com
 days-3678hjds.biz;1
 days438-green86.biz;1
 days7887-green.biz;1
+daysbndc.icu
 daysb.us;1
 dayscs.us
 daysearight.com;1
@@ -39630,6 +39642,7 @@ dfbet886.com;1
 dfbuzpk.com
 dfcbio.loan;1
 dfcboss.us
+dfcbzd.loan;1
 dfccgg.loan;1
 dfcdear.us
 dfceven.us
@@ -42881,6 +42894,7 @@ doskt0piveirsion.top
 dosmartdrug.us;1
 dosnas.us
 dostatniapraca.pl
+dostolibidox.icu
 dosugani.site;1
 dosugfoto.ru;1
 dosurvewins.info;1
@@ -44856,6 +44870,7 @@ earbs.us;1
 earca.icu
 earcritique.co.uk
 eardestroyerset.party
+eardiseases.bid;1
 eardrought.us
 earev.us;1
 earfixenr.icu
@@ -45080,6 +45095,7 @@ easyfindrr.pro
 easyfitss.bid;1
 easyflirtonline.in
 easygirl-dating.com
+easygirl-datingz.com
 easyguitarlessonsworld.com
 easyhealthrates.win
 easyhimp.date
@@ -45879,7 +45895,6 @@ edvardspreston.ru
 edvardsroderik.ru
 edv-bestseller.com
 edwbh.loan;1
-edventurestemprogram.com
 edwinonlinejapan.com;19
 edwin-polite.us;1
 edwlan.trade;1
@@ -45950,7 +45965,6 @@ eelpodfid.com;1
 eelquit.in
 eemailservices.com
 eemajor.us
-eembarkok.com
 eemclap.us
 eemedic.pl.ua
 eemedya.com;1
@@ -48827,6 +48841,7 @@ epirusface.com;1
 epirv.us;1
 epit.info
 epitom.com
+epitomegs.icu
 epittra.us
 epizmail.com
 eplpbgnu.at
@@ -51116,6 +51131,7 @@ eyesv.us;1
 eyetest.bid;1
 eyethreat.bid;1
 eyevalidate.co.uk
+eyewatchclean.icu
 eyewearoo.com
 eyewearov.com
 eyevisionclear.us
@@ -51803,7 +51819,6 @@ famoushealthyleaf.us;1
 famouslatinabeautymeet.us;1
 famouslossweightshow.us;1
 famousmess.com
-famoussupplement.com
 famoustimeshareit.us
 famoustip.info;1
 famouswineflatbelly.us;1
@@ -52690,6 +52705,7 @@ fc8cm7sr-aiv.com;1
 fc9899.com;1
 fca8ev5ybgxmdbxe3plun7h.net;1
 fcatalyst.tokyo
+fcbwxs.loan;1
 fcc866.com;1
 fccdt.win;1
 fccsales.net
@@ -53422,6 +53438,7 @@ ffueled.us
 ffx1nieh-ahr.com;1
 ffx.akak.trade;1
 ffz.mobi
+fg049aeutf0.net;1
 fg62r84.biz
 fgbdr-fer.net
 fgcel.com.ar
@@ -53776,6 +53793,7 @@ filecenterdms7.com;1
 filedcg.us
 filedec.us;1
 filedj.bid;1
+fileforosh.info;1
 filefostering.com;1
 fileis.com;1
 filektremsond.com
@@ -54667,6 +54685,7 @@ fittinggeeks.pl
 fittinglight.com
 fittoifit.us
 fitvim.com
+fitwomens.info;1
 fitzgeraldforjudge.com
 fitzgera.us;1
 fiumeintranet.com.ar
@@ -54782,6 +54801,7 @@ fixvehiclewarranty.us
 fixvision.net
 fixvisionsrear.us
 fixwrinklesreduce.us;1
+fixwrongposture.bid;1
 fixyourbrokenrelationships.com
 fixyouriisue.com
 fizbelow.com;1
@@ -55438,6 +55458,7 @@ flyotheryear.com;1
 flyownpart.net;1
 flyowntime.com;1
 flypaz.bid;1
+fly-pre.us;1
 flyprivate.biz;1
 flypublicweek.com;1
 flyrch.com;1
@@ -55525,9 +55546,11 @@ fnmn.ru
 fnntjhqw.be
 fnpz.win;1
 fnr61hn8-acuk.com;1
+fn-rkjw9sxg.net;1
 fnsa65inawi.net;1
 fnsq.win;1
 fnsx.win;1
+fnth.win;1
 fnvnx.us
 fnvwd.biz
 fny2.com
@@ -57379,7 +57402,6 @@ frotic.com
 frotl.us;1
 frotwa.com;1
 frouaty.us
-froudhhbn.icu
 frouk.win;1
 froup.us;1
 frouse.ru
@@ -59289,6 +59311,7 @@ gefriergerate.info
 gefush.pw
 gegardz.us
 gegenhitze.com;1
+gegenokitarou2018.jp
 gegetutu003.in
 gegew.us
 geggos673.com
@@ -59386,6 +59409,7 @@ gejod.bid;1
 gekidan1tori-tumaran00.net;1
 gekiyasucoach.com
 gekiyasukuroe.com
+gekiyasuwebnet.jp
 gekk.edu
 gekks.net;1
 gelatoprizes.com
@@ -62779,6 +62803,7 @@ gottain.us
 gottamyheartcured.us
 gottenpennystocksinfo.us
 gotteruihywid.com
+gotthebuzzoff.icu
 gotthecapsinow.icu
 gotthecbd.com;1
 gotthegarcinia.com;1
@@ -65162,7 +65187,6 @@ h33c.com;1
 h34k.com;1
 h36s9nmspb.biz;1
 h37k.com;1
-h3g9s-etjafw7.net;1
 h3gyf.tokyo
 h3ibd611c0vig8y.co
 h3k3.com;1
@@ -65279,6 +65303,7 @@ hackllv.us
 hack-sell.su
 hack-seo.com
 hackthatbit.ch
+hacktosurvive.com
 hackwifi.org
 hackzl.bid;1
 hacnrfs.us
@@ -65720,6 +65745,7 @@ handlep.us
 handler-re.net;1
 handlesameplace.com;1
 handlesgreats.com;1
+handlessurvs.info;1
 handloomculture.com;1
 handmadeentrepreneur.com
 handoutadise.com
@@ -65917,6 +65943,7 @@ happythere.com;1
 happytobehero.info;1
 happytoday1.xyz;1
 happytoday5.xyz;1
+happytodermax.icu
 happytools72.ru
 happytopshim.icu
 happyueyfhdg.info;1
@@ -66021,7 +66048,6 @@ harmclang.org.ua
 harmedp.us
 harmerdine.com;1
 harmfulmedication.com
-harmmedicine.com
 harmnexthand.com;1
 harmonienike.ru
 harmoniving.net
@@ -67770,6 +67796,7 @@ helpinshop.com
 helpinvent.co.uk
 helpinwhitehouse.com
 helpisthere.com
+helpjudy.info;1
 helplargegovernment.com;1
 helplessgoblet.pl.ua
 helpless-pursuit.ga
@@ -73432,6 +73459,7 @@ imowicyce.tk
 imoxomonalus.tk
 impacadvice.com;1
 impactchannel.top;1
+impactconnekt.top;1
 impactfully.us
 impactrange.top;1
 impact-studio.fr
@@ -75641,6 +75669,7 @@ iqzzfdids.pl
 ir101.net
 ir3mygpx.co
 ir8gorg.site
+ir9n2m92zp8hw.com;1
 irabops.com
 irabum.club;1
 irafegazy.tk
@@ -78945,7 +78974,6 @@ jmuwzbsj.net;1
 jmw55e2suz.com;1
 jmy829.com
 jmymy.com
-jmzbx.jp
 jn3w.com
 jn82ev3q.work
 jnaloha.us
@@ -81585,6 +81613,7 @@ kayleebrear.ru
 kaylee-donley.us;1
 kaylee-farrar.us;1
 kaylee-grow.us;1
+kayleelizzie.ru;1
 kaylee-stubblefield.in
 kayleigh-amos.us;1
 kayleigh-beckmann.in
@@ -83146,7 +83175,6 @@ kkgghxvc.com;1
 kkgiven.us;1
 kkitab.loan;1
 kkj3si8.us;1
-kkj78.jp
 kkjtuwiiowe.com
 kkjumbo.us;1
 kkjvv.bid;1
@@ -86210,7 +86238,6 @@ leakdescribe.us;1
 leakingemail.info;1
 leakydisc.com
 leakyia.us
-lealcontabil.com
 lealios.us;1
 lealrneod.tk
 lealting.date
@@ -86941,7 +86968,6 @@ letidentical.net
 letishaeba.su
 letiziadarlene.in
 letizianatala.com;1
-letmedothia.com
 letmeinonthis.com
 letmenot.tk;1
 letmitshotwoei.com
@@ -88430,6 +88456,7 @@ litelind.icu
 litelta.us
 literary.pw
 literaryuuliterary.info;1
+litermailer.ga;1
 liteworlds.in
 litherip.date;1
 lithinfo.com;1
@@ -89003,7 +89030,6 @@ lnktrkx.com
 lnlfjplv.wang;1
 lnliinlooo.us
 lnmice.bid;1
-lnnizzp-wremm.net;1
 lnosh.us;1
 lnpbsc.bid;1
 lnpesc.top;1
@@ -91017,7 +91043,6 @@ luabove.us;1
 luangpore.de
 luanhejt.com;1
 luanmk.info;1
-luatutorial.info;1
 lubatomshop.icu;1
 lubdty.bid;1
 lubichy.fr;1
@@ -94545,7 +94570,6 @@ mashigiene.com.ar
 mashkrush.info
 mashreqbnk-ae.com;419
 mashtmelotunemia.com
-mashxz.icu
 mashy.com
 masighshtur.com
 masimac.us
@@ -94703,7 +94727,6 @@ matators.date
 matcharrive.org.ua
 matchbehind.co.uk
 matchcomm.bid;1
-matchdhgh.icu
 matchduke.org.ua
 matched-blackpeople-same.us;1
 matched-blackpeople-seek.us;1
@@ -94788,7 +94811,6 @@ matrixsolicitor.com;419
 matrixulture.com
 matrixx.icu
 matroo.org;1
-matruix.icu
 matrxpharmacy.com
 matrymaxelahusietypescalareda.com
 mats33.com;1
@@ -96709,6 +96731,7 @@ meestablish.co.uk
 meesterlijkmoederschap.nl
 meet-4-free.us;1
 meet4love.us;1
+meetanddome.com
 meetandflirt.com
 meetandhookup.com
 meetand-sweet.com;1
@@ -98968,6 +98991,7 @@ mitgliedermessage.de
 mitheartrl.com
 mitheog.us
 mithiten.com
+mithnewti.icu
 mithrucerwele.com
 mitiestrees.com
 mit-lida-fit-und-schlank.in
@@ -99913,6 +99937,7 @@ moncourrier.fr.nf
 monctonlife.com
 mondaiamason.com
 mondarewardz.com
+mondaycybernight.icu
 mondayfreebe.com
 mondayfreebies.com
 mondaygiftz.com
@@ -100674,6 +100699,7 @@ motodaoi.space;1
 motoearbuzz.icu
 moto-gosz.pl
 motomaargentina.com.ar
+motoprestamos.info;1
 motor125.eu;1
 motorcarstop.us;1
 motorcitychaingang.us;1
@@ -101755,7 +101781,6 @@ mxg.mayloy.org
 mxgtiroelw.icu
 mxin.com.br
 mxiwrjwzkc.com;1
-mxjg.jp
 mxjjlb.top;1
 mxk9k.biz
 mxkdjwj.us;1
@@ -104542,6 +104567,7 @@ neteducation.in
 netekiyaha.club;1
 netemesis.com;1
 netfixcard.us
+netfixmembership.com
 netflix-accept.com
 netflix-activate.info;1
 netflix-admin.com
@@ -104586,7 +104612,6 @@ netflix-set.com
 netflix-set-up.com
 netflix-singup.com
 netflix-status.com
-netflix-streams.com
 netflix-subscribe.com
 netflix-unverified.com
 netflix-user-registration.com
@@ -105486,6 +105511,7 @@ newsmoothskinspecials.com;1
 newsms.pl
 newsnachausers.com
 newsnexus.info;1
+newsnhealth.info;1
 newsnow247.com
 new-society.info;1
 newsofhealth.com
@@ -105574,7 +105600,6 @@ newsws.stream
 news-vx.com;1
 newsyabo.date
 newsystem18july.bid
-newsystembtc.top
 newsysurvs.info;1
 newtabdrugstore.eu
 newtabletbargain.su;1
@@ -105934,6 +105959,7 @@ nhlottawasenatorsonline.com
 nhlphiladelphiaflyersonline.com
 nhlpittsburghpenguinsonline.com
 nhltampabaylightningonline.com
+nhmk.win;1
 nhmpz301gy.biz
 nhnjl.site
 nhogodrf.biz;1
@@ -106932,6 +106958,7 @@ nofirewwzfw.eu
 nofitness.com
 noflow.info;1
 nofonibumim.tk
+nofossilshairs.icu
 nofuecorner.com
 nofungusatall.com
 nofunhair.com;1
@@ -108452,7 +108479,6 @@ nwerver.us
 nwffkcu33e.biz;1
 nvfpp47.pl
 nwfresbd.bid;1
-nvghl-cpfa6yu.net;1
 nwhchivk.nl
 nwihost.su
 nvision2011.co.cc
@@ -111565,6 +111591,7 @@ onthepressblood.icu
 ontheservice.com;1
 onthesideskins.icu
 onthespytop.icu
+onthewarehouse.info;1
 onthio.us;1
 ontimeshareprosseems.us
 ontjoy.date;1
@@ -113651,7 +113678,6 @@ pagedzl.us
 pagegrove.com;1
 pagehands.us;1
 pagekalindi.ru
-pagekit.info;1
 pagelfu.us
 pagelit.us
 pagepureoilbenifits.us
@@ -115600,6 +115626,7 @@ perfectheartattackcure.us
 perfecthomebasedwork.us;1
 perfectimageshd.com
 perfectinternetuser.com;1
+perfectiondermasligt.icu
 perfectionrug.com;1
 perfectiontilit.com
 perfectkitchen.ru;1
@@ -115715,7 +115742,6 @@ perla-orozco.in
 perl.mil
 perlnanette.in
 perltel.us
-perltutorial.info;1
 permanentans.ru
 permanentapps.com;1
 permanntmtch.pw
@@ -117537,6 +117563,7 @@ playmorerooms.icu
 play-n-bingo.us;1
 play-n-chance.us;1
 play-n-chips.us;1
+playnearnsnow.info;1
 playnetkingspin.eu
 playnightlong.com
 play-n-jackpot.us;1
@@ -117720,6 +117747,7 @@ pljyha.stream;1
 plmmx.bid;1
 plnegme.us;1
 pln-intrior.us;1
+pln-shd.us;1
 ploae.com
 ploantd.us;1
 plocho.info;1
@@ -117883,6 +117911,7 @@ plustheprotect.info;1
 plustradersin.com
 plustreatmentbedrom.com
 plusunderpants.com
+plusvaliahairs.icu
 pluswalshops.com
 plusvans.com
 plusweedstockslink.us
@@ -119931,6 +119960,7 @@ prettylatinadatesight.us;1
 prettylatinadatingon.us;1
 prettylatinameetwish.us;1
 pretty-n-amazingwomen.com
+pretty-n-amazingwomenz.com
 prettypartygirlz.com;1
 prettyrussianladymeetnow.us;1
 prettyrussianwomenyeah.us;1
@@ -120105,6 +120135,7 @@ primegivers.com
 primehdshots.com
 primehfh.icu
 primehn.us
+primeinfohub.info
 primejm.us;1
 primeka.us
 primelocationlets.co.uk
@@ -122221,7 +122252,6 @@ q52hhhrvdm.biz
 q53yh1d-qpj.com;1
 q5h2dh9q5isdpbf.co
 q5-m9-ztc.com;1
-q5taclite.us;1
 q5vm7pi9.com
 q61w.com
 q65pk6ii.targi.pl
@@ -124781,7 +124811,6 @@ rcndns.su
 rcnix.bid;1
 r-cool.co
 rcp7.com
-rcpb.jp
 rc-phonesolution.com;1
 rcpt.at
 rcrtxb.cf;1
@@ -124802,6 +124831,7 @@ rdconsult.top;1
 rdcopperr.us
 rdda1or.com;1
 rddoctor.pl.ua
+rddot.icu
 rddutch.us;1
 rdecent.us
 rdefense10.com;1
@@ -125776,6 +125806,7 @@ regalcy.us
 regalhn.us;1
 regalmatterdosesr.info;1
 regaloregamicudz.org
+regaltraveldubai.com;1
 regalwaystoworki.info;1
 regalyeuildfind.info;1
 reganluciana.su
@@ -127149,6 +127180,7 @@ rewardsfromcostk.com;1
 rewardsfromprime.com
 rewardskardz.com
 rewardsmas.com
+rewardsme.info;1
 rewardsnewestonlinepoints.com
 rewardsnewonlineinfo.com
 rewardspecialmemberinfo.com
@@ -128119,6 +128151,7 @@ riopoy.com.ua
 riord.us;1
 rioricopharmacy.ru
 riorov.bid;1
+riotakeinhow.info;1
 riotchicken.us;1
 riotwhen.info
 rioul.us;1
@@ -128788,7 +128821,6 @@ ronaldba.info;1
 ronald-bushway.in
 ronald-cevallos.in
 ronalpat.trade;1
-ronand.icu
 ronar.ru
 ronat.us;1
 rondabernadina.ru;1
@@ -131259,6 +131291,7 @@ santa7.info;1
 santabarbaraweddingofficiant.com
 santacoem.us
 santamonica.com
+santamood.icu
 santandarbank.com
 santanderchile.com
 santanderinvestments.co.uk;419
@@ -132573,6 +132606,7 @@ sdujhdfgjsdhsd.com;1
 sdusk.us;1
 sdwallses.info;1
 sdwa.us
+sdvsrclula.biz
 sdy21.com
 sdzudcta.com;1
 se2f4fmpod.jp
@@ -133185,7 +133219,6 @@ segurosinformativo.com.br
 segurototals.info;1
 seharveuzpr.eu
 sehedthowoimn.eu
-sehen-uns.com
 sehertropcuep.eu
 seicn.com
 seidel.top;1
@@ -133655,6 +133688,7 @@ sentwee.us;1
 senug.us;1
 senukexcrreview.in
 senvash.us;1
+senxdkte.icu
 senyaw.com;1
 seo11.mygbiz.com
 seo1-miguel75.xyz
@@ -134169,7 +134203,6 @@ serv20-bl.com.br;1
 serv8.com.br
 serv-accs.com
 servature.com
-servcomser.app
 serv.craigslist.org
 servdell.com.br
 servebalance.co.uk
@@ -134745,6 +134778,7 @@ sf3-269.net
 sf49ersshoponline.com
 sf49erssuperbowlonline.com
 sf49ersteamsshop.com
+sf4qz5n5j5.biz
 sf8w.com
 sfa59e1.mil.pl
 sfactoracademy.com
@@ -135407,7 +135441,6 @@ sheneedsallnite.com
 sheneedsthisall.com
 sheneedsthisdiet.com
 sheneel.com;1
-shengcaigw.top;1
 shenhoutou.com
 shenji.info
 sheno.us;1
@@ -137123,6 +137156,7 @@ sinnlos-mail.de
 sinoartrans.com;1
 sinogoldminning.com;1
 sinojexefana.tk
+sinolla.info;1
 sinplace.com;1
 sinpseralroo.com
 sinsakuchanel.com
@@ -137337,6 +137371,7 @@ sixrot.com;1
 sixrut.com;1
 sixsigmalearningcenter.com;1
 six-six-seven.com;1
+sixsurvson.info;1
 sixtmilestrendingpartners.info;1
 sixtyhn.us;1
 sixtyroundabout.net
@@ -138884,7 +138919,6 @@ sofia-jeppesen.in
 sofia-kalinowski.us;1
 sofia-lathem.us;1
 sofia-smidt.in
-sofiatraffic.info;1
 sofia-trautman.me
 sofidoke.com;1
 sofiedianne.su
@@ -141901,7 +141935,6 @@ stipi.bid;1
 stipordesaicokol.com;1
 stiqo.com
 stiqx.in
-stirconference.info;1
 stiregujnao.com
 stirringhafowondrous.info;1
 stirspress.com;1
@@ -142247,7 +142280,6 @@ strandsretrieved.com;1
 strandsway.com;1
 stranexlogistics.com;419
 strapgreattime.net;1
-straphael.info;1
 strapworkout.com
 straq.us;1
 strasbergorganic.com
@@ -143570,6 +143602,7 @@ supervisorevents.com
 supervk.net
 superwmarts.com;1
 superwmaxxyyew.com
+supervouch.info;1
 superwpowersmwomen.com
 supervsc.com
 superzonprime.com
@@ -144633,7 +144666,6 @@ systair.us
 systeaceket.com
 systechiasmarmidiensgrayfiled.com
 system-administratorteam.tk
-systembtc.top
 systemcompany.info;1
 systemespicked.com;1
 systemfast.review
@@ -146192,7 +146224,6 @@ techniqueshearthealth.us;1
 techniquesrenewnerve.us;1
 techniquesrepairmemory.us
 techniquessolarenergy.us;1
-techniquetumble.info;1
 technmagazine.ru;1
 techno4us.trade
 technobliss.co.in
@@ -147218,6 +147249,7 @@ thbmjsyi.net;1
 thbpxz.loan;1
 thbqfb.loan;1
 thbtcj.loan;1
+thbzyx.loan;1
 thcattack.com
 thc.st
 thdigodwlree.com
@@ -147848,6 +147880,7 @@ thenoftime.org.ua
 thenomadscrolls.com;1
 thenonespoken.com;1
 thenormalpressure.com;1
+thenormalstop.icu
 thenorthfacecenter.net
 thenorthface-coupon.com
 thenorthfacefinland.com
@@ -148411,7 +148444,6 @@ thisdrinksmeltfats.us
 thisearning.net
 thisfabriccould.loan;1
 thisfabricstudied.win;1
-thisflag.info;1
 thisflattummydrinks.us
 thisformen.com
 thisfrenchwinelosslbs.us;1
@@ -148429,6 +148461,7 @@ thisismyemail.xyz
 thisisnewxe.bid;1
 thisisnotmyrealemail.com
 thisisntothewaytodothist.com
+thisisterrylibido.icu
 thisistheend.ru
 thisisthejudge.com;1
 thisiswhatithought.com
@@ -149294,7 +149327,6 @@ tinnitushelp819.us;1
 tinnitushelp822.us;1
 tinnitushelp826.us;1
 tinnitushelp913.us;1
-tinnitushelp917.us;1
 tinnitushelp920.us;1
 tinnitushuriew.bid;1
 tinnitusjtno2.bid;1
@@ -150403,6 +150435,7 @@ topbuysteroids365.com
 topbuysteroids.com
 top-canadian-pharmacy.net
 topcannabisoilcare.us;1
+topcanvasnows.icu
 topcenter.info;1
 topcest.com
 topchik.gold
@@ -151759,6 +151792,7 @@ trejuuslea.com
 trekchicken.us;1
 trekrpls.bid;1
 treksz.us
+trellisacademy.info
 tremo.us;1
 trenchd.us;1
 trenchi.us
@@ -152459,6 +152493,7 @@ trybrandblog.ru;1
 trycupcool.com.de
 trydeal.com	
 trydisbuk.bid;1
+trydiscountseed.ru;1
 trydisdating.bid;1
 trydomainseo.org
 trydrinksmeltfatsfor.us;1
@@ -152599,6 +152634,7 @@ tswcjy.stream
 tsvoz0qe.work
 tsv-pacific.com;1
 tswryxc.tk
+tsxkz-k76dk.com;1
 tsxmeds.eu
 tsxprescriptioncanada.be
 tt0rgi4.biz
@@ -153030,6 +153066,7 @@ tuurxleenterserheen.org;1
 tuuryourhart.com
 tuuuut04.in
 tuvandautu.org;1
+tuvanphongachau.info;1
 tuwebsystems.com;1
 tuver.us;1
 tuviajeastral.com;1
@@ -153265,6 +153302,7 @@ txv4lq0i8.pl
 txwxumpb.com;1
 ty12umail.com
 ty1td7zfrbji39te.link
+ty8edfmc.icu
 tyafnezti.com;1
 tyank.us;1
 tybfm.loan;1
@@ -155905,7 +155943,6 @@ usareplicawatch.com
 usarmylight.com
 usasecuritysolutionsinfo.com
 usasgo.loan
-usashop.info;1
 usashu.biz;1
 usastoreweb.com.ua
 usasupport.info
@@ -155941,7 +155978,6 @@ usbmicrophone.org.uk
 usboostsmemory.us
 usbootsstore.com
 usbqq.com
-usbrainboost.com
 usbraincured.com
 usbusinessresources.com
 usbxycxk.biz;1
@@ -156074,6 +156110,7 @@ usernacha-bills.com
 usernacha-wireinfo.com
 username.e4ward.com
 user-netflix.com
+user-netflix-membership.com;1
 useroad.us
 useronlykey.com;1
 user.peoplesocialspace.com
@@ -159134,6 +159171,7 @@ webpurchase.info;1
 webratsel.com;1
 web-reinvention.com;1
 webremu-web.tokyo.jp
+webreward.info;1
 webreven.biz;1
 webriches777.eu
 webrichesnet.eu
@@ -159854,6 +159892,7 @@ welnessmedicinedrugs.pl
 welnessmedsite.com;1
 welnessnursing.eu
 welnessteva.in;1
+velobeauty.pw
 velocityapps.biz;1
 welod.us;1
 veloed.bid;1
@@ -160526,7 +160565,6 @@ vezyxeu.com
 vf0b.com
 vf3n.com;1
 vf5pycuc.co;1
-wfacommissions.info;1
 wfacommunity.com
 wfake.us;1
 wfaozhh6-ljl.com;1
@@ -162755,6 +162793,8 @@ wintercdhh.us
 wintercrypt.top;1
 winteremail.info;1
 winterfatz.com
+winterfitness.info;1
+winterhealth.info;1
 winterjackengermany.com
 winteronly.com
 winter-promo.com;1
@@ -163580,7 +163620,6 @@ vivinanete.com;1
 vivinhg.date
 vivinthomesecurity103.us;1
 vivintsecurity928.us;1
-vivintsolar917.us;1
 wiwirena.co;1
 vivirmejorweb.com;1
 vivisaihujapan.com
@@ -163828,6 +163867,7 @@ wmmcprhj.net;1
 wmmeat.us;1
 wmoc06.com
 wmon.us
+vmowervbevjwcmw.com
 vmp5nqrkb2r9w.net;1
 vmpanda.com
 vmpuksnv.co;1
@@ -167740,6 +167780,7 @@ xn--80amiic8b7al.xn--p1ai
 xn--80amj3cn9a.xn--p1ai;1
 xn--80amk5am3ak5c.xn--p1ai;1
 xn--80amkks.xn--p1ai
+xn--80aml2ab0e.xn--p1ai;1
 xn--80ammcc7b5c.xn--p1ai
 xn--80ammi9as9bk.xn--p1ai
 xn--80ampsbv6e.xn--p1ai
@@ -172323,6 +172364,7 @@ yduty.us;1
 yduzynyxok.tk
 ydw4iac8rn.biz
 ydxiuza.tk
+ydyb.win;1
 ydyg.win;1
 ydyzq.com;1
 ydzd.win;1
@@ -172764,6 +172806,7 @@ ygbf.win;1
 ygbg.win;1
 ygbh.win;1
 ygbm.win;1
+ygbs.win;1
 ygdyw.stream
 ygeef.us
 ygentle.us
@@ -173858,6 +173901,7 @@ yrirogidu.tk
 yrise.us;1
 yritulehix.tk
 yrjimmy.us
+yroad.top;1
 yroadtoruinmention.us;1
 yroid.com
 yroterk.us
