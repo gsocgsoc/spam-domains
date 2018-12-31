@@ -7494,6 +7494,7 @@ akrel.info;1
 akrind.bid;1
 akrungsri.asia;419
 aksarat.eu
+aksearches.com
 akseskeadilan.org;1
 aksesorisa.com
 akshave.us;1
@@ -66753,6 +66754,7 @@ hdrforensics.com;1
 hdrjz.win;1
 hdrtrack.com
 hdscamses.com
+hdseriionline.ru
 hdsns.club;1
 hdsonyou.com
 hdsrf.win;1
@@ -156037,6 +156039,7 @@ usatchi.us
 usatechs.bid;1
 usathed.us
 usatodaiu.com
+usa-tooday.biz
 usatransfers.org
 usaue.net
 usauto.co;1
