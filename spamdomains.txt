@@ -40652,7 +40652,6 @@ dietfatless.party
 dietfatless.trade;1
 dietfatloss.racing;1
 dietfoodapple.icu
-dietfulfat.review
 dietgh.us
 dietglop.com;1
 dietg.us;1
@@ -97098,7 +97097,6 @@ mediaclicks.bid
 mediadealsg.com;1
 mediadomainshostr.org
 mediaearth.co.uk
-mediaflow.info;1
 mediafullred.nl
 mediagama.com;1
 mediagarcinia.com
@@ -111969,7 +111967,6 @@ onfundation.com;1
 onfwy.us;1
 onfxxs.com;1
 ongedy.info;1
-ongeme.info;1
 ongerva.us
 ongive.com
 ongoingpro.online
@@ -162149,7 +162146,6 @@ wheretoget-backlinks.com
 wheretogetviagracheap.ru;1
 wheretosubmit.com
 whereveracionna.com;1
-whereworldspace.xyz
 whereyou.bid;1
 wheroza.us
 wherze.pw
