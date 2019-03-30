@@ -2770,8 +2770,6 @@
 777-money.site;1
 777mummyclub.eu
 777-n-bingo.us;1
-777-n-chips.us;1
-777-n-club.us;1
 777.net.cn
 777-n-jackpot.us;1
 777-n-lucky.us;1
@@ -7794,7 +7792,6 @@ alice-oller.us;1
 alice-puryear.in
 alice-sofa.com;1
 alicewebland.com;1
-alice-with-christina.us;1
 alice-with-pamela.us;1
 alicia-alejos.biz;1
 alicia-gephart.in
