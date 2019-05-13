@@ -22419,7 +22419,6 @@ brooted.us
 bropex.bid;1
 bropf.us;1
 bropt.us;1
-brorebo.xyz
 brorip.com;1
 brori.us;1
 brorp.us;1
@@ -62082,7 +62081,6 @@ gradius.com.br
 gradsca.com
 gradsjw.us
 graduacursos.com.br
-gradual.us
 gradualwarrantycarlet.us
 graduateseo.org
 gradvmink.com
