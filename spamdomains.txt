@@ -45738,7 +45738,6 @@ nckibrazil.gdn;1
 nckicar.icu
 nckiemployment.gdn;1
 nckifun.gdn;1
-nckigo.gdn;1
 nckilawyers.gdn;1
 nckirent.gdn;1
 nckistock.icu
