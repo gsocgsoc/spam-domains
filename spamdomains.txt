@@ -459,7 +459,6 @@
 2018teslaplans.bid;1
 2018www-pvp.com;1
 2019-com.tokyo
-2019-com.xyz
 201new1.tk
 202.73.56.162
 2028filbert.com
@@ -24745,7 +24744,6 @@ hawaiinairlines.co.cc
 havaili.trade;1
 havarditravelsagency.com;419
 havecoach.co.uk
-have-com.xyz
 havecreate.co.uk
 havegreatday.com;1
 haveian.us;1
@@ -34081,7 +34079,6 @@ lycklingf.world
 lydia-goslin.me
 lydoradutuw.tk
 lyghuad.com;1
-lygl.xyz;1
 lyhehatawib.tk
 lyh.ink;1
 lyhuiyin.com;1
@@ -46022,7 +46019,6 @@ qbvvjcq.tk
 qcashmagiceurodice.pl
 qcashvivaeurodice.pl
 qccat.com
-qcmr.xyz;1
 qcschebkda.in
 qcvdvtk.tk
 qdhtlb.com
