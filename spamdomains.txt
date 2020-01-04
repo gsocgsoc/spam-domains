@@ -1,4 +1,3 @@
-0-0-0-0-0-0-0-0-0-0-0-0-0-18-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-33-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 000invaliddomain.local
 001-accbilling.com
@@ -890,8 +889,6 @@
 4-0d7le.com;1
 40nsy2-125.com;1
 411cvzv4xbsd4.com
-[;419
-];419
 {;419
 41offercalmly.in
 420photo.com
@@ -70343,4 +70340,4 @@ zzzppp01.in
 zzzppp03.in
 zzzuuu02.in
 zzzuuu04.in
-zzzzzzzzzzzzz.com%a;419
+zzzzzzzzzzzzz.com0-0-0-0-0-0-0-0-0-0-0-0-0-18-0-0-0-0-0-0-0-0-0-0-0-0-0.info
