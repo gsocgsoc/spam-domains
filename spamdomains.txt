@@ -11043,7 +11043,6 @@ cbtg-9n.com;1
 cbu-ae.net;419
 cbxapp.com
 cbxaxerzak.com
-cc2.tokyo
 cc97.com
 c-campusformation.fr
 ccbint.com;419
@@ -14168,7 +14167,6 @@ coteaqui.we.bs;1
 cotenanet.com.br;1
 coteplanossaude.com.br
 cote-saude2019.cn.com
-cote-saude3.me;1
 cotizacionesmexico.com;1
 cotnetwork.com;1
 cotnoxolud.com
@@ -42209,7 +42207,6 @@ newsiemae.com;419
 newsincome.ru
 newsinfomarketing.com.br
 newsinfonet.com.br;1
-news-jp.tokyo
 newsklick25.de
 newsklick32.de
 newsklick33.de
@@ -56590,7 +56587,6 @@ sxcaf.faith
 sxgcsh.com;1
 sxgtb.com
 sxkesheng.com;1
-sxladoa2.com
 sxuec.com;1
 sxvkhauj.eu
 sxyjane.com
@@ -61718,7 +61714,6 @@ web.cg;1
 webclickland.press;1
 webcom.ml
 webcomserv.net;1
-webcom.tokyo
 webconecta.we.bs
 webconhecimento.com.br
 webcontact-france.eu
