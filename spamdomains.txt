@@ -11270,6 +11270,7 @@ centralservices.life
 centranergi.com;1
 centreclaym.com;1
 centrodeprodutos.com.br;1
+centrodesaude.xyz
 centrowatt.com;1
 centuriesb.com;1
 centurswap.net
