@@ -15089,6 +15089,7 @@ cvcviaggens.com.br;1
 cwe5c2gy4tdz759t.fit
 cveevo.com.ua
 cwhpk2kv7kpv9.net;1
+cwko.com
 cvo-us.com;1
 cvqh.in
 cvr-188.com
@@ -47530,7 +47531,6 @@ pixelarray.net
 pixelmarketing.biz;1
 pixelrate.info
 pixer.mobi
-pixicartsolutions.online
 pixiehome.com
 pixlinking.top
 pixlynk.top
