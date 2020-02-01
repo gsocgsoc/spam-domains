@@ -53508,7 +53508,6 @@ santanderconnect-uk.com;419
 santandergroup-pb.com;419
 santanderinvestments.co.uk;419
 santandermailuk.com;419
-santander-online.co.uk;419
 santanderonline.eu;419
 santanderprivateuk.com;419
 santandirbancco.com
