@@ -5054,6 +5054,7 @@ arabeleilla.ru;1
 arabeleranique.in;1
 arabellagarnet.ru;1
 arabellanessi.com;1
+arabiaradio.org
 arabic-region.com;419
 arabicregion.com;419
 arabliberalinitiative.net;419
@@ -17658,6 +17659,8 @@ domaiatonce.com;1
 domaiboostlift.com;1
 domaieveryonenow.com;1
 domainparks.info;1
+domain.post.twitpost.info
+domainpost.twitpost.info
 domainrenewnotice.com
 domainrnotice.com;1
 domainsaniesseo.org
@@ -18096,6 +18099,7 @@ drugsnetw.com.ua
 drugspick.com
 drugspowerstore.com
 drugsshop.net
+drugssquare.com
 drugstabletsdrugstore.eu
 drugstabletspills.eu
 drugstax.com
@@ -19504,6 +19508,7 @@ email-9.com
 e-mailaccountupdates.pw
 emailadvertising.vn
 emailark.com
+email.backend.blognet.in
 emailbackend.com;1
 emailbe.com
 emailbiz.co.uk;1
@@ -23163,6 +23168,7 @@ forum-et.com;419
 forum.jokeray.com
 forutilize.co.uk
 forwarder.blognet.in
+forwarder.twitpost.info
 forwei.ml;1
 forxrumak.info
 foryousite.com
@@ -25621,6 +25627,7 @@ googlbizlisting.com
 google-consulting.com
 google-filez.tk
 googleload1.com
+googlemail.blognet.in
 googlemapsmobile.co.cc
 googmail.gdn
 googoo01.in
@@ -30018,6 +30025,7 @@ imakraikuyo24-lpl.com;1
 imamlarburada.bid;1
 imamurakunn-ahoyana909.net;1
 imanishrana.tk;1
+imap.ducktales.twitpost.info
 imap.mx.twitpost.info
 imapserver.wroclaw.pl
 imap.ubuntu.blognet.in
@@ -30336,6 +30344,7 @@ influencetax.com;1
 influentil.me
 influncd.us
 influxn.com;1
+info1.twitpost.info
 info24hs.com.br;1
 info-2you.net.ua
 info2you.net.ua
@@ -30539,6 +30548,7 @@ inoveflex.com.br;1
 inpressing.com;1
 inprivatediet.be
 inprogram.co.uk
+input.exchange.blognet.in
 inrbpni.tk
 inrecebidosnfe.com.de
 inrelations.ru
@@ -37712,6 +37722,7 @@ mail999.in;1
 mailace.in
 mailadadad.org
 mailaiss.net
+mail.android4.blognet.in
 mail.android.blognet.in
 mailapp.top
 mailart.top
@@ -37726,6 +37737,7 @@ mailbosi.com
 mailbox1.gdn
 mailbox.blognet.in
 mailboxok.club
+mailbox.scanner.twitpost.info
 mailboxstar.com
 mailboxusernetwork.xyz
 mailbox-wwyyvb4xcz76eoy.com
@@ -37796,6 +37808,7 @@ mailforspam.com
 mailfree.co.pl
 mail.free-emailz.com
 mail-free-mailer.online
+mail.frontend.blognet.in
 mailfs.com
 mailfund.com
 mailglobalnet.space
@@ -37872,6 +37885,7 @@ mailme6.eu
 mailme7.eu
 mailme8.eu
 mailme9.eu
+mail.media.twitpost.info
 mailmenow.in
 mailmidia.com.br;1
 mailmillion.com;1
@@ -37881,8 +37895,11 @@ mailmonster.website
 mail.my.blognet.in
 mailnet.ml;1
 mailnet.top
+mail.net.twitpost.info
+mail.norton.twitpost.info
 mailnow2.com
 mail-now.top
+mailoffice.blognet.in
 mailoi.com
 mail-olivia.jp
 mailondandan.com
@@ -37891,6 +37908,7 @@ mailopedia.com
 mailorderantibiotics.ru
 mailos.gq
 mailox.biz
+mail.panel.blognet.in
 mailpeak.com
 mailpocz.pl
 mailpost.gq
@@ -37924,6 +37942,7 @@ mailsdfd.net
 mailsdfeer.net
 mail-search.com
 mailsecond.com;1
+mail.secured.twitpost.info
 mailsender1.srv.br
 mailsender.science;1
 mailsenders.press;1
@@ -41228,6 +41247,7 @@ modaperuhelenka.com;1
 modecyl.info;1
 modelix.ru
 modemfestival.com
+modem.intranet.twitpost.info
 modeone.cf
 moderies.com
 moderne-lieberx.in
@@ -42047,6 +42067,7 @@ my31emel.in;1
 my6mail.com
 my7uzbz3vp.tokyo;1
 myacaiberryreview.net
+myaccount.blognet.in
 myaccountfedexnow.com
 myaccount-validation.com
 myactivity.su
@@ -48810,7 +48831,11 @@ pooou85-55wwwo.net;1
 poopteen797.cloud
 poor.com
 poosangri.com;1
+pop2.twitpost.info
+pop3.ipv4.twitpost.info
+pop3.ipv6.twitpost.info
 pop3.mx.twitpost.info
+pop3.server.blognet.in
 pop3.ubuntu.twitpost.info
 pop3.win.twitpost.info
 popadz.date
@@ -48827,6 +48852,7 @@ popororo002.in
 poppell.eu
 poppellsimsdsaon.eu
 poppersexpress.net
+pop.project.blognet.in
 poppyq.com
 popregulatesix.in
 popsky.us
@@ -49647,6 +49673,7 @@ printtenrecruit.in
 printtoplabs.in
 printtrik.top;1
 prioritizefortifyexpress.in
+priority.mail.blognet.in
 prioritypaydayloans.com
 priorityrx.net
 pripace20.com
@@ -53034,6 +53061,7 @@ roulettestrategie.biz
 roulette-strategie.org
 roulette-system.at
 roundabout.uicp.net;1
+round.cube.blognet.in
 roundcube.blognet.in
 roundgiftstore.com
 roundlab.com
@@ -54337,6 +54365,7 @@ scoup.us;1
 scoutkits.com
 scoveredn.trade;1
 scpping.bid;1
+scp.twitpost.info
 scranight.me
 scrapeassemble.us;1
 scrapget.icu
@@ -57787,6 +57816,7 @@ studiomajid.com;1
 studiomeha.ru
 studiopro.in
 studyabroadinst.com
+study.blognet.in
 studycompare.co.uk
 studyerrand.us
 studyforprofit.com;1
@@ -63024,6 +63054,7 @@ userinfo-nacha.com
 usernacha-alarm.com
 usernacha-bills.com
 usernacha-wireinfo.com
+user.name.blognet.in
 user-pypl.com
 userscheckupdates.com
 user-support-vericactionc.com
@@ -63946,12 +63977,14 @@ webmagic.su
 webmail24.top
 webmail3873.pw
 webmail4.club
+webmail.abc.twitpost.info
 webmailadminupdate.com
 web.mail.blognet.in
 webmail.blognet.in
 webmaild.net
 webmail.private.twitpost.info
 webmails.top
+web.mailstore.blognet.in
 webmail-upgrade-portal.xyz
 webmanager.kz
 webmarketingdirectory.org
@@ -63977,6 +64010,7 @@ webpalace888.eu
 webpanfleto.com.br
 webplanettech.com;1
 webportale-24.live
+web.post.blognet.in
 webprinter.news;1
 webprodeals.cf;1
 webprofile00848.me
@@ -64608,6 +64642,7 @@ vegaspoker.dynainbox.com
 vegetbleshre.bid;1
 wegethealthynow.com;1
 vegg.com
+weheartiphone.com
 vehicleinspro.us;1
 vehicletaxrefund.org
 vehicletriangle.best
