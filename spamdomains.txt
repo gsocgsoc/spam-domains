@@ -51327,6 +51327,7 @@ personalwine.com.br
 person.highnom.com
 person.makingdomes.com
 personoption.com;1
+	person.qwertylock.com
 personsclub.com
 persuadedivide.us;1
 persuaderepair.in
@@ -79782,6 +79783,7 @@ zvsn.com
 zwsxfwqn.eu
 zwub.com
 zvun.com
+zwwaltered.com
 zvvbfhtygghfjstotua.com
 zwwjlki.tk
 zwzi.com
