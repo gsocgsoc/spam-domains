@@ -51683,7 +51683,6 @@ owlet.website
 owlfunction.icu
 owlmo.com
 ovmail.com
-owncloud.online;1
 owner.dynainbox.com
 ownersimho.info
 owner.universallightkeys.com
