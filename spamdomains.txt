@@ -26660,6 +26660,7 @@ frogsailor.icu
 from.crossandgarlic.com
 fromexplore.co.uk
 from.farthy.com
+from.foodforhat.com
 fromhand.com
 from.heartmantwo.com
 frommodel.co.uk
@@ -58224,6 +58225,7 @@ ravina.top;1
 ravingabout.bid;1
 rawizywax.com
 rawl66.housecleaningguides.com
+rawscoring.com
 rawuuraw.info;1
 ravuzav.co.tv
 ravweinberger.com
