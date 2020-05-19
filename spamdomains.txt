@@ -10633,6 +10633,7 @@ bronze.carmanial.com
 bronze.codyting.com
 bronze.dummyfox.com
 bronze.fanficforum.com
+bronze.goinglownow.com
 bronze.joyrideday.com
 bronzelizard.co.uk
 bronze.popautomated.com
@@ -54828,6 +54829,7 @@ pitchz.host
 pitech-si.eu;1
 pitlokjob.com
 piton.website
+pitostrax.com
 pitsky.com
 pitstick.newpopularwatches.com
 pittmusic.com
