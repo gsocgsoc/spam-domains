@@ -50999,6 +50999,7 @@ novprocessor18.icu
 nowralphlaurenpascherget.fr
 nowralphlaurenpaschersalz.fr
 novripping18.icu
+now.rowrowleft.com
 now-sale.ru;1
 novscan18.icu
 novscreennewsletter.icu
@@ -68645,6 +68646,7 @@ thesaurus.kz
 thesckul.ml;1
 thescrubber.pro;1
 these.actices.com
+these.carmanial.com
 thesecure.club;1
 these.discopied.com
 these.findingperry.com
