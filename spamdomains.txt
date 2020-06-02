@@ -6582,6 +6582,7 @@ basic.boringverse.com
 basic.dobunny.com
 basic.dummyfox.com
 basic.goinglownow.com
+basic.heartmantwo.com
 basic.intained.com
 basic.islaby.com
 basic.m8sbeingm8s.com
@@ -57801,6 +57802,7 @@ service-scheduled.com
 servicesdor.com
 servicesecurity0.com
 serviceseoregs.org
+services.foodforhat.com
 service-shipfedex.com
 services.housines.com
 servicesimple.me
