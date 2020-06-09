@@ -57125,6 +57125,7 @@ scholar.britted.com
 scholar.citetick.com
 scholar.dummyfox.com
 scholar.geomenon.com
+scholar.heartmantwo.com
 scholar.milltrill.com
 scholar.mondard.com
 scholar.toddard.com
