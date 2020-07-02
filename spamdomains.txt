@@ -16908,6 +16908,7 @@ dedi.dummyfox.com
 dedieroana.in
 dedi.estabbi.com
 dedi.fanficforum.com
+dedi.hammerhandz.com
 dedi.inblazingluck.com
 dedi.kellergy.com
 dedi.m8sbeingm8s.com
@@ -30039,6 +30040,7 @@ hog.eshreky.com
 hog.factorican.com
 hog.fanficforum.com
 hogge16.sfxmailbox.com
+hog.hammerhandz.com
 hog.hellohappy2.com
 hog.highnom.com
 hog.m8sbeingm8s.com
