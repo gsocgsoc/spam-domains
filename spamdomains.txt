@@ -11838,6 +11838,7 @@ cdn34.soloadvanced.com
 cdn3.soloadvanced.com
 cdn41.soloadvanced.com
 cdn42.soloadvanced.com
+cdn43.soloadvanced.com
 cdn45.soloadvanced.com
 cdn4.soloadvanced.com
 cdn53.soloadvanced.com
@@ -11855,6 +11856,7 @@ cdn76.soloadvanced.com
 cdn77.soloadvanced.com
 cdn78.soloadvanced.com
 cdn79.soloadvanced.com
+cdn80.soloadvanced.com
 cdn8.soloadvanced.com
 cdn90.soloadvanced.com
 cdn92.soloadvanced.com
