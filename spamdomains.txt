@@ -11833,6 +11833,7 @@ cdn120.soloadvanced.com
 cdn12.soloadvanced.com
 cdn13.soloadvanced.com
 cdn18.soloadvanced.com
+cdn20.soloadvanced.com
 cdn22.soloadvanced.com
 cdn24.soloadvanced.com
 cdn27.soloadvanced.com
