@@ -11856,6 +11856,7 @@ cdn105.soloadvanced.com
 cdn10.soloadvanced.com
 cdn112.soloadvanced.com
 cdn113.soloadvanced.com
+cdn115.soloadvanced.com
 cdn117.soloadvanced.com
 cdn11.soloadvanced.com
 cdn120.soloadvanced.com
