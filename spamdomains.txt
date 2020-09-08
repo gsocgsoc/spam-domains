@@ -12064,6 +12064,7 @@ cdn24.soloadvanced.com
 cdn27.soloadvanced.com
 cdn2.soloadvanced.com
 cdn30.soloadvanced.com
+cdn31.soloadvanced.com
 cdn34.soloadvanced.com
 cdn3.soloadvanced.com
 cdn41.soloadvanced.com
@@ -12091,6 +12092,7 @@ cdn8.soloadvanced.com
 cdn90.soloadvanced.com
 cdn92.soloadvanced.com
 cdn95.soloadvanced.com
+cdn96.soloadvanced.com
 cdn9.soloadvanced.com
 cdn-chinaemail-foxmail-session.site
 cdntunnel.com
