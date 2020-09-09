@@ -12170,6 +12170,7 @@ cdn77.soloadvanced.com
 cdn78.soloadvanced.com
 cdn79.soloadvanced.com
 cdn80.soloadvanced.com
+cdn85.soloadvanced.com
 cdn8.soloadvanced.com
 cdn90.soloadvanced.com
 cdn92.soloadvanced.com
