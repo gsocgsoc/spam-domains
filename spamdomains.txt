@@ -4865,7 +4865,6 @@ amazon-jojpb.pet
 amazon-jojpc.pet
 amazon-jojpd.pet
 amazon-jp.best
-amazonjpco.co
 amazonjpco-mail.cyou
 amazon-jp-co.today
 amazonjp-co.top
@@ -4877,7 +4876,6 @@ amazonmacros.com
 amazon-mail.email
 amazon-mail.fail
 amazon-mail.info
-amazon-maill.club
 amazon-mail.net
 amazon-mail.photos
 amazon-mail.pictures
@@ -33617,7 +33615,6 @@ hostin-it-aruba.com
 hostjudge.co.uk
 hostkiss.com
 hostler-concealed.us
-hostlover.club
 hostmailmonster.com
 hostmail.pro
 hostmaster7.xyz
@@ -54574,7 +54571,6 @@ payperex2.com
 paypl06611com.info
 payplticket2937591.info
 payplticket2937592.info
-payplticket4161287194.info
 payplticket4733090.info
 payplticket4733092.info
 payplticket4733093.info
