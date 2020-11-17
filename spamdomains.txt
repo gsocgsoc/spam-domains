@@ -3754,6 +3754,7 @@ affairs.top
 affairunsure.monster
 affairzone.de
 affectbeast.pl.ua
+affecting.org
 affhat.com
 affil1.fr
 affiliatebots.icu
@@ -16791,6 +16792,7 @@ cmjinc.com
 cmjireo.cam
 cmksquared.com
 cmmailer.com
+cmmail.ru
 cmm-moving.com
 cmndys.trade
 cmosummits.org
@@ -31913,6 +31915,7 @@ gotthebooks.site
 gottup.com
 gotup.icu
 gotway.me
+gotzilla.online
 gotzilla.ru
 gourde89.fr
 gourmetnation.com.au
