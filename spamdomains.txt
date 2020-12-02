@@ -4624,6 +4624,8 @@ aleramici.eu
 alerosen.site
 aleros.website
 alertas-futbol.com.ar
+alertdeviceregistration-secure.com
+alerted-device.registered.com
 alertedeal.com
 alerte-fiscale.fr
 alertesoldes.com
@@ -6028,6 +6030,7 @@ annmariajanet.in
 annmarie-casarez.in
 annmarie-mcmullin.in
 annmarie-underwood.in
+annmariewilke.com
 anno90.nl
 annoramatilda.in
 announcements003.cf
@@ -8470,6 +8473,7 @@ bamfadmin.com
 baminsja.tk
 bamjamz.com
 baml-secure.com
+bamminproductions.com
 bamnimm.cf
 bamonite.com.br
 bamoroc.co.tv
@@ -13688,6 +13692,8 @@ canavuvu.co.tv
 can.blatnet.com
 cancecharb.cf
 cancecharb.ml
+cancelnewlogin.com
+cancelnewpayee.net
 cancel-paymentonline.co.uk
 cancelrequestedlogin.com
 canceranswers.info
@@ -21051,6 +21057,7 @@ derdan.icu
 derdisoft.com
 derefed.com
 de-register-newdevice.com
+de-register.newdevice-secure.com
 derek-swint.me
 derektwilight.com
 deremedios.icu
@@ -21297,6 +21304,7 @@ devia.com.ua
 devicediet.com
 devicedrugstore.eu
 device.rest
+device-secure-new-auth.com
 devicesgenerics.eu
 devicestabletgenerics.eu
 deviehj.work
@@ -35198,6 +35206,8 @@ help24paypal.com
 help4fun.eu
 help72paypal.com
 helpdeskbra.com
+help.device-secure-new-auth.com
+help.device-secure-new.auth.com
 helpemails.com
 helper-cbd.world
 helpfeedthetiger.com
@@ -40908,6 +40918,7 @@ johnathmarena.in
 johnbogea.com
 johnderasia.com
 johnelwayjersey.net
+johnfriedrich.com
 johnlaronovev.eu
 johnlewis-eu.com
 johnlewisgroup.co.uk
@@ -68114,6 +68125,7 @@ securedatfa.work
 securedbillingse.net
 secureddata.org
 securedegree.com
+secured-system-uk.com
 secureequivalent.co
 secure-fb.com
 securehealingmall.in
@@ -68129,6 +68141,7 @@ securemedicalgroup.in
 securemembercenter.com
 securemsg.xyz
 securenes.life
+secure-newdevice.com
 secure.oldoutnewin.com
 secure-online-uk.xyz
 secureourbody.stream
@@ -68146,6 +68159,7 @@ securerxdeal.su
 securerxmart.su
 securesccs.com
 secureschoolsalliance.net
+secure-signin.link
 secure-sites.biz
 securesmtp.bid
 securesmtp.stream
@@ -68167,6 +68181,7 @@ securityfirstbook.com
 securityhtgb.cam
 security-ios.com
 securitylogistics.info
+security-paired-device.com
 securityupdatenotice.com
 securitywiseupdate.com
 secushots.eu
@@ -68734,6 +68749,7 @@ service-asset.com
 servicebdage.info
 serviceclientinternet7.club
 servicecrest.com
+service-deregistered-new.com
 servicediet.website
 serviced-jp.info
 servicedomenicawebsite.win
@@ -80965,6 +80981,7 @@ veridiandyn.com
 verificacao2019.ru
 verificationaccount.com
 verification.com
+verificationpayee.com
 verificationsideal.tk
 verifications.pw
 verificteam.com
