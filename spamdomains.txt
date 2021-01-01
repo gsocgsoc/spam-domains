@@ -4096,6 +4096,7 @@ afbarta.ml
 afdanced.com.br
 afdbg.com
 afedoctors.eu
+afelab.org
 afelov.ml
 afenmail.com
 aferypucur.tk
@@ -86788,6 +86789,7 @@ wscxl.com
 vscynsw.tk
 vsdsfl.com
 vselennaya.su
+vseosade.site
 wser.com
 vservicecentral.com
 vsgew.online
