@@ -7240,6 +7240,7 @@ apoimail.com
 apoimail.net
 a.poisedtoshrike.com
 apoll-news.com
+apollo3.com
 apolloce.com
 apologent.monster
 apologent.work
@@ -11866,6 +11867,7 @@ bitly.accountants
 bitmagnet.biz
 bitmains.com
 bitmarketnow.com
+bitmax-website.host
 bitmonkey.xyz
 bitnog.com
 bitoal.info
@@ -34755,6 +34757,7 @@ ghostdiversnz.org
 ghostload.guru
 ghostsender.com.br
 ghoulrich.top
+ghpb.org
 ghruiov.com
 ghservers.online
 gh-stroy.ru
@@ -52812,6 +52815,7 @@ manualely.site
 manualers.site
 manualery.site
 manualess.site
+manualformy.fun
 manualformy.online
 manualformy.site
 manualformy.space
