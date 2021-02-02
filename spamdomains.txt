@@ -4631,6 +4631,7 @@ aerojac.today
 aeroltap.today
 aero-nats.info
 aeronauticalglossary.com
+aeronauticalterms.com
 aeroshack.com
 aerospaceblog.com
 aerospaceglossary.com
