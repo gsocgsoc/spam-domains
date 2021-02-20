@@ -8266,6 +8266,7 @@ artmail.icu
 artmall.pro
 artmez.com
 artms.pl
+artnames-collage.online
 artnames-contemporaryart.online
 artnames-cubism.online
 artnames-dadaart.online
@@ -32561,6 +32562,7 @@ ffgng.work
 ffgrg.work
 ffgrossparin.de
 ffhtneven.info
+ffhwz.xyz
 ffjdk.in
 fflrjbl.tk
 ffmsc.com
