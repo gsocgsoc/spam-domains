@@ -9495,6 +9495,7 @@ bayfibmo.ga
 bayfibmo.ml
 bay-gmbh.ru
 baygoo.de
+baylornews.com
 bayriatrap.ml
 bayshoreportfolio.co.uk
 baysidemailman.com
@@ -23400,6 +23401,7 @@ docrate.work
 docrxstuff.com.ua
 docsc.site
 docs.marksypark.com
+docsn.site
 docs.oldoutnewin.com
 docs.poisedtoshrike.com
 docs.qwertylock.com
@@ -80746,6 +80748,7 @@ ubconsultancy.net
 ubdc.com
 ubefroze.cf
 ubefroze.tk
+uberabit.com
 uberdriver-taxi.ru
 uber-mail.com
 uberoffers.com
