@@ -5878,6 +5878,7 @@ amazon-admin.net
 amazon-amaz.cloud
 amazona.top
 amazon-auth.su
+amazon-aws-us.com
 amazon-ca-jp.pw
 amazoncc.top
 amazon-central.buzz
@@ -51510,6 +51511,7 @@ matenow.site
 materialos.com
 materialresources.org
 matern-eger.de
+matgaming.com
 mathenachhilfe.net
 mathewblair.info
 mathiasgrehn.com
