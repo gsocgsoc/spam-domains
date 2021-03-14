@@ -76350,6 +76350,7 @@ tardharto.cf
 tardharto.ml
 tardharto.tk
 tarek-auth.com
+taresz.ga
 targetads.co.za
 targetdb.com
 target-mail.ro
