@@ -22118,6 +22118,7 @@ devlh.site
 devll.site
 devlo.site
 devlt.site
+devlz.site
 devmoe.com
 devmongo.com
 devoa.com.ua
@@ -55025,6 +55026,7 @@ mypillcare.be
 mypillmed.eu
 mypinpointe.com
 mypiratebay.site
+myplaceourplace.com
 my.ploooop.com
 mypop3.bid
 mypop3.trade
