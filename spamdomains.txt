@@ -80777,6 +80777,7 @@ txtsz.site
 txtw.site
 txtx.site
 txtx.space
+txty.site
 txuicmon.co.tv
 txunilever.com
 txuxzyd.com
