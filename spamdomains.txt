@@ -22459,6 +22459,7 @@ devle.site
 devlh.site
 devll.site
 devlm.site
+devln.site
 devlo.site
 devlt.site
 devly.site
@@ -54704,6 +54705,7 @@ monkeyroller.com
 monkeysend.com
 monkey-up.com
 monkey-win.com
+monkey.wrengostic.com
 monkkey-win.com
 monkmove.com
 monkoiba.site
@@ -59570,6 +59572,7 @@ offres-gratuites.fr
 offres-professionnelles.fr
 offres-reductions.fr
 offres-selectives.fr
+offroadbigbear.com
 offrpoloralphlaurenpaschers.fr
 offrzscasquebeats.fr
 offsetmade.casa
