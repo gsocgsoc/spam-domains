@@ -22935,6 +22935,7 @@ devis-professionnels.fr
 devis-seniors.fr
 devist.com
 devlaha.tk
+devla.site
 devlc.site
 devld.site
 devle.site
@@ -73789,6 +73790,7 @@ server.bitcoincodes.co
 server.bitcoinmails.com
 server.bitcoinsdeals.com
 server.bitcoinsmails.com
+server.blatnet.com
 serverbody.top
 serverbrsp.com.br
 serverbytes.net
