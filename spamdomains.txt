@@ -1,4 +1,5 @@
 0-0-0-0-0-0-0-0-0-0-0-0-0-33-0-0-0-0-0-0-0-0-0-0-0-0-0.info
+00082dd.com
 00082ss.com
 00082xx.com
 000865b.com
@@ -31253,6 +31254,7 @@ filesdir.site
 filese.site
 file-share-rabbit.xyz
 filesh.site
+filesk.site
 fileslib.site
 filesoupnew.com
 filespike.com
